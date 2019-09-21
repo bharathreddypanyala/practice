@@ -1,3 +1,20 @@
+commit 0ea1c57f8c70794ac15b8a5bea30612d01731c9d
+Merge: 6df412c 142b3bd
+Author: panyala@live.com <bharathintern@gmail.com>
+Date:   Sat Sep 21 19:22:25 2019 +0200
+
+    add
+
+commit 6df412c9075d6041cd24e9bccd03bc38ffcfcafc
+Author: panyala@live.com <bharathintern@gmail.com>
+Date:   Sat Sep 21 19:18:18 2019 +0200
+
+    final changes to master branch
+
+ B.txt   |  2 +-
+ log.log | 20 ++++++++++++++++++++
+ 2 files changed, 21 insertions(+), 1 deletion(-)
+
 commit 142b3bd892e432cd7537fde3edbd7fd0d53d137a
 Author: panyala@live.com <bharathintern@gmail.com>
 Date:   Sat Sep 21 19:06:32 2019 +0200
@@ -97,7 +114,8 @@ commit 1e1c8f1daf254544bced77192456073e2b28c931
 Author: bharath reddy <bharathintern@gmail.com>
 Date:   Sat Sep 14 19:57:38 2019 +0200
 
-    here are some modifications
+    here are 
+some modifications
 
  README.md | 2 ++
  1 file changed, 2 insertions(+)
@@ -129,3 +147,4 @@ Date:   Sat Sep 14 19:26:26 2019 +0200
 
  README.md | 4 ++++
  1 file changed, 4 insertions(+)
+when i tried to merge the files i got an error regaring the mere and i resolved it by adding the files and commiting them to the respective repositories.
