@@ -1,3 +1,23 @@
+commit 142b3bd892e432cd7537fde3edbd7fd0d53d137a
+Author: panyala@live.com <bharathintern@gmail.com>
+Date:   Sat Sep 21 19:06:32 2019 +0200
+
+    pushing the files in other merge branch
+
+ A.txt | 1 -
+ B.txt | 2 +-
+ 2 files changed, 1 insertion(+), 2 deletions(-)
+
+commit 8dab26b6fc24ed8824edb17d297de7f26880b3f5
+Author: panyala@live.com <bharathintern@gmail.com>
+Date:   Sat Sep 21 19:03:02 2019 +0200
+
+    the final changes have done
+
+ A.txt   |   3 +-
+ log.log | 111 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 2 files changed, 113 insertions(+), 1 deletion(-)
+
 commit 95b0c7066047bc26d9a2c00f148a64bd0dd26063
 Author: panyala@live.com <bharathintern@gmail.com>
 Date:   Sat Sep 21 18:54:35 2019 +0200
