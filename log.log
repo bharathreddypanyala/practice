@@ -1,0 +1,111 @@
+commit 95b0c7066047bc26d9a2c00f148a64bd0dd26063
+Author: panyala@live.com <bharathintern@gmail.com>
+Date:   Sat Sep 21 18:54:35 2019 +0200
+
+    deleted unessesry files
+
+ .gitignore     |  1 -
+ web/index.html | 13 -------------
+ 2 files changed, 14 deletions(-)
+
+commit 6da4c472a774ff8723a1ed1994e86cced055208d
+Author: panyala@live.com <bharathintern@gmail.com>
+Date:   Sat Sep 21 18:39:09 2019 +0200
+
+    this is a adding of files to repository
+
+ A.txt     | 1 +
+ B.txt     | 1 +
+ README.md | 7 -------
+ 3 files changed, 2 insertions(+), 7 deletions(-)
+
+commit d7c54a89aaa1306ed7fd36cd2fee8bc9d12a01c3
+Author: bharath reddy <bharathintern@gmail.com>
+Date:   Sun Sep 15 12:31:42 2019 +0200
+
+    adding ignore file
+
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 2db944d4c1f6fd89eb2f07b0ffa1655590511656
+Author: bharath reddy <bharathintern@gmail.com>
+Date:   Sun Sep 15 12:18:52 2019 +0200
+
+    moving index.html file to web folder
+
+ index.html => web/index.html | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 8059be7f55cb10c83ca7d3212c8385596098581c
+Author: bharath reddy <bharathintern@gmail.com>
+Date:   Sun Sep 15 02:01:57 2019 +0200
+
+    removing log files
+
+ debug.log | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 856c45e5137c80b6dba51cf527666fb8af029f65
+Author: bharath reddy <bharathintern@gmail.com>
+Date:   Sun Sep 15 01:59:59 2019 +0200
+
+    adding debug llog
+
+ debug.log | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 3e242ce78344760a74d60c4be91f383a435c45be
+Author: bharath reddy <bharathintern@gmail.com>
+Date:   Sun Sep 15 01:58:42 2019 +0200
+
+    removing log file
+
+ debug.log | 3 ---
+ 1 file changed, 3 deletions(-)
+
+commit c9995b24934e7f0a934792b82cc7434d81405156
+Author: bharath reddy <bharathintern@gmail.com>
+Date:   Sun Sep 15 01:55:14 2019 +0200
+
+    adding a log file that dosent belong here
+
+ debug.log | 3 +++
+ 1 file changed, 3 insertions(+)
+
+commit 1e1c8f1daf254544bced77192456073e2b28c931
+Author: bharath reddy <bharathintern@gmail.com>
+Date:   Sat Sep 14 19:57:38 2019 +0200
+
+    here are some modifications
+
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 29327eff7d687f316b196a65a8b0fca99d8bac46
+Author: bharath reddy <bharathintern@gmail.com>
+Date:   Sat Sep 14 19:52:42 2019 +0200
+
+    a few changes are made
+
+ README.md  |  6 +++---
+ index.html | 13 +++++++++++++
+ 2 files changed, 16 insertions(+), 3 deletions(-)
+
+commit 17b8d5b5facae03f706436bca6725579648a732e
+Author: bharath reddy <bharathintern@gmail.com>
+Date:   Sat Sep 14 19:29:25 2019 +0200
+
+    adding more ipsum
+
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 94cf2574567a7c7f501eda5551b0d3296853e9c2
+Author: bharath reddy <bharathintern@gmail.com>
+Date:   Sat Sep 14 19:26:26 2019 +0200
+
+    adding some ipsum
+
+ README.md | 4 ++++
+ 1 file changed, 4 insertions(+)
