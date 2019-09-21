@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-too long
-=======
-All work and no play makes this a dull month
->>>>>>> branchone
+All work and no play makes this a dull day
