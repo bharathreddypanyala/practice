@@ -147,4 +147,4 @@ Date:   Sat Sep 14 19:26:26 2019 +0200
 
  README.md | 4 ++++
  1 file changed, 4 insertions(+)
-when i tried to merge the files i got an error regaring the mere and i resolved it by adding the files and commiting them to the respective repositories.
+when i tried to merge the files i got an error regaring the merege and i resolved it by removing the delimiteries i didnt need in B.text file and then adding the files and commiting them to the respective repositories.
